@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "mJV2n9EGFT5rw7O/VO4DbX4wODwM2YMnyBels+K45LueALOY8o8uMQW4PStjj6BG0oQLq+8gA/t6/fpIAqrAbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mohamed.fathy\\source\\repos\\generalsolution\\generalsolution\\generalsolution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mohamed.fathy\\.nuget\\packages\\epplus\\7.1.0\\epplus.7.1.0.nupkg.sha512",
+    "C:\\Users\\mohamed.fathy\\.nuget\\packages\\epplus.interfaces\\6.1.1\\epplus.interfaces.6.1.1.nupkg.sha512",
+    "C:\\Users\\mohamed.fathy\\.nuget\\packages\\epplus.system.drawing\\6.1.1\\epplus.system.drawing.6.1.1.nupkg.sha512",
+    "C:\\Users\\mohamed.fathy\\.nuget\\packages\\microsoft.io.recyclablememorystream\\3.0.0\\microsoft.io.recyclablememorystream.3.0.0.nupkg.sha512",
+    "C:\\Users\\mohamed.fathy\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\mohamed.fathy\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\mohamed.fathy\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\mohamed.fathy\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\mohamed.fathy\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
